@@ -1,8 +1,6 @@
-# Exercise 0.6
+# Exercise 0.6 - New note in Single Page App diagram
 
-# New note in Single page app diagram
-
-# User creates a new note using the single-page version of the app.
+User creates a new note using the single-page version of the app.
 
 ```mermaid
 sequenceDiagram

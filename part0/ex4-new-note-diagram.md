@@ -1,8 +1,6 @@
-# Exercise 0.4
+# Exercise 0.4 - New note diagram
 
-# New note diagram
-
-# User creates a new note on the page https://studies.cs.helsinki.fi/exampleapp/notes by writing something into the text field and clicking the Save button.
+User creates a new note on the page https://studies.cs.helsinki.fi/exampleapp/notes.
 
 ```mermaid
 sequenceDiagram
